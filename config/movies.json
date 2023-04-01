@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Avatar",
+    "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/4adf61aa-3cb7-4381-9245-523971e5b4c8/600x900",
+    "year": "2009",
+    "genre": ["Fantasy", "Drama"],
+    "rating": "7.9"
+  },
+  {
+    "name": "Салам, New York",
+    "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/0d44a8d2-7c53-473e-acd9-8dea983e2100/600x900",
+    "year": "2013",
+    "genre": ["Comedy", "Drama"],
+    "rating": "7.2"
+  },
+  {
+    "name": "Shazam! Fury of the Gods",
+    "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/ee0f6f64-303a-4ffd-89a5-12520360ea5d/600x900",
+    "year": "2023",
+    "genre": ["Fantasy", "Thriller"],
+    "rating": "6.1"
+  },
+  {
+    "name": "Chernobyl: Exclusion Zone",
+    "img": "https://avatars.mds.yandex.net/get-kinopoisk-image/1599028/ce84bf0e-d302-4c64-8404-942f2f0e84c2/600x900",
+    "year": "2014",
+    "genre": ["Fantasy", "Thriller"],
+    "rating": "7.8"
+  }
+]
