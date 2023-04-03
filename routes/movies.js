@@ -21,10 +21,12 @@ router.get("/movies", async (req, res) => {
       "Animation",
       "Children",
       "Comedy",
+      "Sports",
       "Family",
       "Drama",
       "Sci-Fi",
       "Thriller",
+      "Crime",
       "War",
     ];
 
